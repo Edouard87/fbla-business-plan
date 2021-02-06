@@ -1,0 +1,13 @@
+.vscode
+prepu.aux
+prepu.bbl
+prepu.blg
+prepu.fdb_latexmk
+prepu.fls
+prepu.log
+prepu.out
+prepu.synctex.gz
+prepu.toc
+refs.bib.bak
+refs.bib.sav
+workspace.code-workspace

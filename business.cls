@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{business}[02/05/2021 A class to format the FBLA submission]
-\LoadClass{article}
+\LoadClass[letter]{article}
 \RequirePackage{graphicx}
 
 \newcommand{\business}[1]{\gdef\@business{#1}}
